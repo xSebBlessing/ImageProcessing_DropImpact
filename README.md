@@ -5,3 +5,6 @@ by Sebastian Blessing, Moritz Kippenberger, Maximilian Dreisbach
 This code allows the processing of Shadowgraphy recordings of a drop impact process as presented at ICMFHT'22.
 
 If you have any questions regarding this code, feel free to contact Sebastian (sebastian.blessing@kit.edu).
+
+# Note
+This is tested using the VS Code notebook extension. Jupyter not tested yet.
