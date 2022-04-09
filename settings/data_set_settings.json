@@ -1,0 +1,17 @@
+{
+    "graphite":
+    {
+        "coarse_crop_frame_size":
+    {
+            "top": 0,
+            "bottom": 0,
+            "left": 100,
+            "right": 20
+        },
+        "center_droplet_outside_px_to_keep": 20,
+        "split_images_center_cols_to_omit": 40
+    },
+    "amorphous-carbon":
+    {
+    }
+}
